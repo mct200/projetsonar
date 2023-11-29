@@ -258,3 +258,7 @@ To configure CI for your project, run the ci-cd sub-generator (`jhipster ci-cd`)
 [Leaflet]: https://leafletjs.com/
 [DefinitelyTyped]: https://definitelytyped.org/
 [Angular CLI]: https://cli.angular.io/
+Test sonarQube
+<img width="953" alt="image" src="https://github.com/mct200/projetsonar/assets/97558185/5a666aaf-d488-4969-b7c8-5e79e5e7fe22">
+
+
